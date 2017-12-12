@@ -1,0 +1,31 @@
+header .jumbotron{
+	text-align: center;
+	background-color: #071923;
+	color: white;
+
+}
+header{
+	border-radius: 20px;
+}
+#main .row{
+	margin-top: 10px;
+}
+
+body{
+	background:#0E0E2B;
+	color: wheat;
+}
+
+#error{
+	color: red;
+}
+
+
+form .row{
+	text-align: center;
+}
+
+.well{
+	background:#0E0E2B;
+	
+}
